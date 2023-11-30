@@ -1,6 +1,6 @@
 ::Earth ASCII Animation
 @echo OFF
-Title Earth ASCII Animation
+Title You've been hacked
 color 0A
 echo.
 :earth
