@@ -1,4 +1,4 @@
-::Earth ASCII Animation
+::youve been hacked
 @echo OFF
 Title You've been hacked
 color 0A
